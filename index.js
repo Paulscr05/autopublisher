@@ -1,5 +1,4 @@
 const DiscordJS = require('discord.js')
-const config = require('./config.json')
 const token = "dein-token-hier"
 
 
